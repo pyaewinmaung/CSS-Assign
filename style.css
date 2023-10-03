@@ -1,0 +1,14 @@
+div,p {
+    color: rgb(214, 45, 45);
+    text-shadow: 1px 3px rgba(166, 17, 59, 0.267); 
+    font-style: italic;    
+    padding: 5px 20px;
+    background-color: rgb(186, 207, 145);   
+    text-align: justify;    
+    }
+
+ body {
+       border: 1px solid;
+       margin-left: 30%;
+       margin-right: 30%;       
+    }
